@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kuldeep sain</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kuldeep-sain&label=Profile%20views&color=0e75b6&style=flat" alt="kuldeep-sain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kuldeep-sain" alt="kuldeep-sain" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://aster.cloud/wp-content/uploads/2022/11/compiling-code.gif"
 - 🌱 I’m currently learning **AI/ML**
 
 - 📫 How to reach me **kuldeepgothdya@gmail.com**
